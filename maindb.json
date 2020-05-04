@@ -1,60 +1,8 @@
-{
-  "admin": {
+"admin": {
     "username": "admin",
     "password": "21232f297a57a5a743894a0e4a801fc3",
-    "loginToken": "001d5c1e925f206f938b6225e3ef06cc",
-    "logs": [
-      {
-        "time": "2020-05-01T16:37:52.165Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      },
-      {
-        "time": "2020-05-03T06:46:38.518Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      },
-      {
-        "time": "2020-05-03T06:56:50.051Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      },
-      {
-        "time": "2020-05-03T07:01:49.840Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      },
-      {
-        "time": "2020-05-03T07:08:40.840Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      },
-      {
-        "time": "2020-05-03T07:10:19.607Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      },
-      {
-        "time": "2020-05-03T07:12:09.940Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      },
-      {
-        "time": "2020-05-03T07:28:15.097Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      },
-      {
-        "time": "2020-05-03T07:31:49.295Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      },
-      {
-        "time": "2020-05-03T08:35:58.624Z",
-        "type": "SUCCESS",
-        "message": "Build Succeded!"
-      }
-    ],
+    "loginToken": "01290563adb55bf86d8ea52ffbb7f2c0",
+    "logs": [],
     "ipLog": []
   },
   "clients": []
